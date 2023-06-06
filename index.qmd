@@ -1,7 +1,35 @@
 ---
-title: "NM-Website"
+title: "Nick Momaney"
+image: headshot.jpg.jpg
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 23em
+  links:
+    - text: GitHub
+      href: https://github.com/Nick-M52
+    - text: Email
+      href: mailto:momaney@ucsb.edu
 ---
 
-This is a Quarto website.
+------------------------------------------------------------------------
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+# **Hello,**
+
+# **My name is Nick Momaney and I created this website for my ES 193DS class at UCSB.**
+
+# **Education-**
+
+Environmental Studies BS- UCSB Class of 2023
+
+Master's of Public Health with an emphasis in Industrial Hygiene- UCLA Class of 2025
+
+# Bio-
+
+-   From Bay Area, CA
+
+-   UCSB T&F athlete
+
+-   Finishing undergrad at UCSB and going to UCLA in fall '23 for Master's
+
+-   Part time Barber outside of school
