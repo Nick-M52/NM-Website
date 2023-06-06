@@ -1,5 +1,34 @@
 ---
-title: "About"
+title: "Track & Field Career"
+image: pic.jpg
+about: 
+  template: trestles
+  image-shape: rectangle
+  image-width: 30em
 ---
 
-About this site
+# Beginning of my Career in Track
+
+-   Started 2017 season, my sophomore year of high school
+
+-   Began throwing the shot put and discus
+
+-   2x MVP in high school
+
+-   2x DVAL Champion in Shotput
+
+# Track at UCSB
+
+-   Began throwing javelin my freshmen year of college (2019)
+
+-   COVID-19 pandemic began right before our season, leading to a redshirt year
+
+-   Freshmen season (2021) 5th place at Big West Championship and tore my UCL
+
+-   Summer 2021- UCL reconstruction surgery (out for 18 months)
+
+-   Returned to competition 2023 to an underwhelming season
+
+# Future Track
+
+-   Planning to continue competing with my last two years of NCAA eligibility at UCLA during my master's

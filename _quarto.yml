@@ -13,9 +13,12 @@ website:
 
 format:
   html:
-    theme: 
-      -nickstyles.scss
-    mainfont: Montserrat
+    theme:
+      #-nickstyles.scss
+      dark: slate
+      light: minty
+    css: styles.css
+    #mainfont: Montserrat
     toc: true
 
 
